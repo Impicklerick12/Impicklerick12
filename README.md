@@ -45,8 +45,6 @@ Track sessions, rate local breaks, and get personalized surf predictions based o
 Build products I’d actually use — solving real problems for niche communities.
 
 ## ✨ Let's Connect
-- 🌐 [LinkedIn]([https://yourwebsite.com](https://www.linkedin.com/in/tyler-hall-bb045713b/))
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💌 [Email](mailto:youremail@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tyler-hall-bb045713b/)
 
 If you're into the ocean or frontend craft — Don't hesitate to reach out
